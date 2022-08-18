@@ -8,7 +8,7 @@
 //     yazdır çıkış yap.
 // değilse tahmini arrttır ya da azalt
 // hakkı büyükse o dan  tahmin iste
-// hakkı bitti ise üzgünüz kaybettiniz
+// hakkı bitti ise üzgünüz kaybettiniz.
 
 
 let playstart = confirm("Do you want to play estimation game: ")
